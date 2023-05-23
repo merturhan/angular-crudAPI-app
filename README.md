@@ -35,6 +35,8 @@ ng serve -o
 
 Filtering and Sorting works
 
-![Screenshot_1](https://github.com/merturhan/angular-crudAPI-app/assets/75416429/ff1e556b-6965-4625-838d-21b5c0ebefd6)
-![Screenshot_2](https://github.com/merturhan/angular-crudAPI-app/assets/75416429/0a03bd41-f91c-4de5-861e-89f2df2d625c)
-![Screenshot_3](https://github.com/merturhan/angular-crudAPI-app/assets/75416429/6d366043-af89-4025-8ef2-9a0cdfdb36cf)
+![Screenshot_1](https://github.com/merturhan/angular-crudAPI-app/assets/75416429/6f56e4f2-0120-4cb2-8a1f-94ddaf085d13)
+
+![Screenshot_2](https://github.com/merturhan/angular-crudAPI-app/assets/75416429/8d084fd7-ed5f-40a3-be0d-d114bb2e630c)
+
+![Screenshot_3](https://github.com/merturhan/angular-crudAPI-app/assets/75416429/141da58e-f253-42ef-8405-dc3ac11d900a)
