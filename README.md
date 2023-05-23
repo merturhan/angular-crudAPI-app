@@ -32,3 +32,9 @@ node .\index.js
 
 In Terminal2
 ng serve -o
+
+Filtering and Sorting works
+
+![Screenshot_1](https://github.com/merturhan/angular-crudAPI-app/assets/75416429/ff1e556b-6965-4625-838d-21b5c0ebefd6)
+![Screenshot_2](https://github.com/merturhan/angular-crudAPI-app/assets/75416429/0a03bd41-f91c-4de5-861e-89f2df2d625c)
+![Screenshot_3](https://github.com/merturhan/angular-crudAPI-app/assets/75416429/6d366043-af89-4025-8ef2-9a0cdfdb36cf)
